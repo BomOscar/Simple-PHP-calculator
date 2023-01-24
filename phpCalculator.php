@@ -1,5 +1,5 @@
  <!DOCTYPE html>
-<!-- code by BomOscar  -->
+
 <html>
 	<head>
 		<title>PhpCalculator | BomOscar</title>
